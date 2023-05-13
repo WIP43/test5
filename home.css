@@ -579,7 +579,7 @@
 }
 .home-register1 {
   height: 66px;
-  padding: var(--dl-space-space-oneandhalfunits);
+  padding: var(--dl-space-space-threeunits);
   align-self: center;
   text-decoration: none;
   background-color: #800080;
@@ -613,7 +613,7 @@
   background-color: #AA82FF;
 }
 .home-header3 {
-  height: 246px;
+  height: 324px;
   font-size: 50px;
   text-align: center;
   font-weight: 600;
@@ -702,7 +702,7 @@
   width: 1110px;
   font-size: 18px;
   align-self: center;
-  margin-top: var(--dl-space-space-fourunits);
+  margin-top: var(--dl-space-space-halfunit);
   text-align: center;
   line-height: 27px;
 }
