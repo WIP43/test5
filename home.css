@@ -495,12 +495,12 @@
   flex-direction: row;
   background-color: var(--dl-color-gray-black);
 }
-.home-text34 {
+.home-text36 {
   width: 100%;
   font-size: 18px;
   line-height: 27px;
 }
-.home-text35 {
+.home-text37 {
   font-size: 27px;
 }
 .home-note1 {
@@ -564,17 +564,17 @@
   font-size: 50px;
   font-weight: 600;
 }
-.home-text40 {
-  font-style: normal;
-}
-.home-text41 {
-  font-style: normal;
-}
 .home-text42 {
+  font-style: normal;
+}
+.home-text43 {
+  font-style: normal;
+}
+.home-text44 {
   font-size: 27px;
   font-weight: 400;
 }
-.home-text43 {
+.home-text45 {
   font-style: normal;
 }
 .home-register1 {
@@ -617,14 +617,6 @@
   font-size: 50px;
   text-align: center;
   font-weight: 600;
-}
-.home-text45 {
-  font-size: 26px;
-  font-weight: 700;
-}
-.home-text46 {
-  font-size: 26px;
-  font-weight: 700;
 }
 .home-text47 {
   font-size: 26px;
@@ -678,6 +670,14 @@
   font-size: 26px;
   font-weight: 700;
 }
+.home-text60 {
+  font-size: 26px;
+  font-weight: 700;
+}
+.home-text61 {
+  font-size: 26px;
+  font-weight: 700;
+}
 .home-content2 {
   gap: var(--dl-space-space-threeunits);
   width: 100%;
@@ -696,11 +696,11 @@
   text-align: center;
   line-height: 27px;
 }
-.home-text61 {
+.home-text63 {
   font-style: normal;
   font-weight: 600;
 }
-.home-text62 {
+.home-text64 {
   font-style: normal;
   font-weight: 600;
 }
@@ -822,11 +822,11 @@
     width: 100%;
     max-width: 20px;
   }
-  .home-text34 {
+  .home-text36 {
     font-size: 16px;
     line-height: 24px;
   }
-  .home-text35 {
+  .home-text37 {
     font-size: 16px;
     line-height: 24px;
   }
