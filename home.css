@@ -613,11 +613,10 @@
   background-color: #AA82FF;
 }
 .home-header3 {
-  height: 324px;
+  height: 175px;
   font-size: 50px;
   text-align: center;
   font-weight: 600;
-  line-height: 60px;
 }
 .home-text45 {
   font-size: 26px;
@@ -687,15 +686,6 @@
   align-items: flex-start;
   padding-left: 41px;
   padding-right: 40px;
-  flex-direction: column;
-}
-.home-details {
-  gap: var(--dl-space-space-unit);
-  width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  max-width: 600px;
-  align-items: center;
   flex-direction: column;
 }
 .home-description {
